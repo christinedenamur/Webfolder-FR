@@ -74,6 +74,9 @@
 #ext_menu-33 .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-33 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #msg-box3-43 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -187,4 +190,7 @@
 }
 #ext_menu-40 .mbr-navbar__section {
   background: #ffffff;
+}
+#ext_menu-40 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
