@@ -23,6 +23,9 @@
 #ext_menu-44 .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-44 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #msg-box4-37 .mbr-header__text {
   color: #000000;
 }
@@ -44,6 +47,9 @@
 }
 #ext_menu-32 .mbr-navbar__section {
   background: #ffffff;
+}
+#ext_menu-32 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #msg-box4-32 .mbr-header__text {
   color: #000000;
